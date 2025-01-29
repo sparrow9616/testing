@@ -520,7 +520,7 @@ Note inki  ache se information es Mai nhi hai
 
             - Kis type se hoga like {buttonname} , {Channelid}
 ---
-### ✅ add tg account 
+### ❌ add tg account 
 
 >Mai chahta hu ki mai bor se aapna account login Karu or aus se hi Channel or bot create kar pau 
 >
