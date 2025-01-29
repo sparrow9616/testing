@@ -33,7 +33,7 @@ Note inki  ache se information es Mai nhi hai
 
 
 
-## A. internal requirements
+## A. ✅internal requirements
 
 -  Code clear likhna hona chahiye 
 
@@ -60,7 +60,7 @@ Note inki  ache se information es Mai nhi hai
 -  batane ki jarurat nhi but file sharing system wo har type ke format ko support karega link generate karne ke liye 
 
 
-## B. AUTO APPROVAL CHANNEL FEATURES 
+## ✅ B. AUTO APPROVAL CHANNEL FEATURES 
 
 - only fsub channel1 Join req auto approve 
 
@@ -100,10 +100,10 @@ Note inki  ache se information es Mai nhi hai
     - ~~Note ~ same hosting wala vps ka ip use hoga if aisa hota hai toh jo mere pass vps hote hai wo life time stable nhi hote har month' new vps pe hosting hoti hai toh aus hesab se karna esko ki ager Ip change bhi ho toh problem na aaye~~ 
 
 
-## D. Payment Getaway 
+## D. ⌛Payment Getaway 
 
 
-### 1.1 Payment getaway T&C
+### ⌛1.1 Payment getaway T&C
 
 - user side koi bhi information na manage 
 
@@ -119,7 +119,7 @@ Note inki  ache se information es Mai nhi hai
 
 
 
-### 1.2 Payment getaway UI 
+### ⌛ 1.2 Payment getaway UI 
 
 -  BUTTON PE CLICK kar ke mini app open hoga or aus mai payment modes show honge 
 
@@ -131,7 +131,7 @@ Note inki  ache se information es Mai nhi hai
 
 ### E. BREIF ABOUT  FEATURES 
 
-#### ACESSKEY
+#### ✅ ACESSKEY
 
 - IF enable hai toh ab se file store bot ka use karne k liye key kind of req hongi same jaise url shurtner hota hai na 24h ke liye waisa hi kuch hoga jis ke under url shurtner ke sath payment getaway se pay kar sakte ho 
 
@@ -147,7 +147,7 @@ Note inki  ache se information es Mai nhi hai
 
 
 
-#### AUTO DELETE 
+#### ✅ AUTO DELETE 
 
 - Jo bot User ke dm mai file send kar raha hai aus file ko set kiye hue time pe  delete kar de
 
@@ -159,7 +159,7 @@ Note inki  ache se information es Mai nhi hai
 
 ---
 
-#### DOWNLOAD 
+#### ✅ DOWNLOAD 
 
 - user dm mai jab wo file send karta hai tab sub files ke niche ek button hoga download name se
 
@@ -167,13 +167,13 @@ Note inki  ache se information es Mai nhi hai
 
 ---
 
-#### REDIRECT SYSTEM 
+#### ~~REDIRECT SYSTEM~~ 
 
-- IF  enable hai toh jo bhi link generate hoga wo meri site ka hoga
+- ~~IF  enable hai toh jo bhi link generate hoga wo meri site ka hoga~~
 - 
--  user aus link pe click karta hai toh pahle meri site open hogi site se mere hi multiple bot mai se kisi ek bot pe wo user redirect ho jyega or wo bot aus user ko wo file provide kar dega 
+-  ~~user aus link pe click karta hai toh pahle meri site open hogi site se mere hi multiple bot mai se kisi ek bot pe wo user redirect ho jyega or wo bot aus user ko wo file provide kar dega~~ 
 
-- NOTE (IF) mere multiple bot mai se koi bot baned ho toh website link ko fark na padhe 
+- ~~NOTE (IF) mere multiple bot mai se koi bot baned ho toh website link ko fark na padhe~~ 
 
 ---
 
@@ -183,13 +183,13 @@ Note inki  ache se information es Mai nhi hai
 
 ---
 
-####  VERIFY 
+####  🔎 VERIFY 
 
 - IF enabled hai toh jab user req send kaega toh user ke dm mai msg jayega verify button ke sath jab tak user aus button pe click nhi karega req approve nhi hogi jaise hi user click karta hai same bot pe aus user ke side se /start msg send hoga or req approve ho jyegi 
 
 ---
 
-####  DATABASE/DUMP
+#### ✅ DATABASE/DUMP
 
 - 4 DB CHANNEL honge  
 
@@ -207,7 +207,7 @@ Note inki  ache se information es Mai nhi hai
 
 ---
 
-#### COUNT 
+#### ✅ COUNT 
 
 - Bot ne kitne link gen kiye aus ka count rakhega or wo count link gen text pe bhi show karega 
 
@@ -215,7 +215,7 @@ Note inki  ache se information es Mai nhi hai
 
 ---
 
-#### DURETONS
+#### 🔎 DURETONS
 
 - Jis file ka wo link gen kar raha hai aus ka duration hai toh kitna duration hai wo link gen text Mai bhi show kare 
 
@@ -229,11 +229,11 @@ Note inki  ache se information es Mai nhi hai
 ---
 
 
-#### THUMBNAIL/ PIC1/PIC2
+#### 🔎 THUMBNAIL/ PIC1/PIC2
 
 - Es ke liye baat kar Lena better rahega 
 ---
-####  FSUB
+#### ✅ FSUB
 
 - Jis channel pe wo joined nhi sirf aus ka button show karega 
 
@@ -266,7 +266,7 @@ Note inki  ache se information es Mai nhi hai
 
 ---
 
-### F. FEATURES
+### ✅F. FEATURES
 
 - No limits in link gen time 
 
@@ -274,13 +274,13 @@ Note inki  ache se information es Mai nhi hai
 
 
 
-#### Hosting problem 
+#### ~~Hosting problem~~ 
 
-- if kisi reson se hosting stop ho jati hai aus bich jo work under processing mai hoga wapis hosting.mikte hi ager aus mai time hoga toh aus ko karne lag jayega 
+- ~~if kisi reson se hosting stop ho jati hai aus bich jo work under processing mai hoga wapis hosting.mikte hi ager aus mai time hoga toh aus ko karne lag jayega~~ 
 
 
 
-#### Batch channel
+#### ✅Batch channel
 
 - ek channel hoga jis ke under kuch bhi dalu aus ke niche button aajyega ek batch or Thumbnail name se   imshot multiple batch link generate kar wane ke liye essy method
 
@@ -293,7 +293,7 @@ Note inki  ache se information es Mai nhi hai
     - Phir maine msgid2  pe jo batch button hai aus pe click kar diya phir sidha maine msgid20 batch Button pe click kar diya 
     - Ab huwa kya 19pic ka batch link generate huwa  jo link generate hoke aaya wo aus ke caption mai aaya 
 
-#### LIKE DISLIKE
+#### ✅ LIKE DISLIKE
 
 - mere fsub1 Channel pe jo bhi post ho bot asu channel ki post pe ek like or ek dislike de reaction ke under 
 
@@ -321,7 +321,7 @@ Note inki  ache se information es Mai nhi hai
     
 3. ✅ `/Info` es se vps ke related information share karega ram, core , version, speed , etc etc 
 
-4. `/Promo` (how it's work )
+4. 🔎 `/Promo` (how it's work )
 
    - `/Promo` karte hi bot ek text send karega with button  aus text ke bad for example maine 5 pics send kar di pic send kar e ke bad maine aus button pe click kar diya bot ne ek text send Kiya aus text ke bad maine 5 videos send karni thi wo kar di phir maine /makeit kar diya  makeit ke bad bot link gen kar dega 
 
@@ -368,9 +368,9 @@ Note inki  ache se information es Mai nhi hai
 
 
 
-7.  `/List` es se history batayega ki kitne logo ne url shurtner key acess liya kiyne logo ne payment getaway se liya or kitne logo ke pass download permission hai  with date  es ke niche button hoga reset ka aus pe click karte hi ye history reset ho jayegi 
+7. ✅ `/List` es se history batayega ki kitne logo ne url shurtner key acess liya kiyne logo ne payment getaway se liya or kitne logo ke pass download permission hai  with date  es ke niche button hoga reset ka aus pe click karte hi ye history reset ho jayegi 
 
-8. `/Reset` karte hi 2 buttons aajyege 
+8. 🔎 `/Reset` karte hi 2 buttons aajyege 
 
     - B1 count reset ~ es se jo counting chal rahi hai wo reset ho jyegi 
 
