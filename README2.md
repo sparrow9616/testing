@@ -307,19 +307,19 @@ Note inki  ache se information es Mai nhi hai
 
 ### G. CMAMNDS
 
-1. `/user`: Sab running bots ke users  show karega 
+1. ✅`/user`: Sab running bots ke users  show karega 
 
     How ? 
        
     Botname aus ke sath aus ke kitne user {users}
 
-2.  `/batch` es ki help se multiple file ka single link gen kar sakta hu 
+2.  ✅ `/batch` es ki help se multiple file ka single link gen kar sakta hu 
 
     HOW ?
     >
     >`/Batch` karte hi bot text send karega aus text ke bad muje jitn files ka single link chahiye mai wo send kar duga  for example maine 5 files send karni thi maine kar di aus ke bad link gen ke liye muje /makeit karna hoga /makeit karte hi bot un 5 file ka single link gen kar ke send kar dega 
     
-3. `/Info` es se vps ke related information share karega ram, core , version, speed , etc etc 
+3. ✅ `/Info` es se vps ke related information share karega ram, core , version, speed , etc etc 
 
 4. `/Promo` (how it's work )
 
@@ -334,9 +334,9 @@ Note inki  ache se information es Mai nhi hai
      - Jab user aus wtach more pe click karega tab bot check karega user FSUB pass karta hai ya nhi ager  acesskey required hai toh wo aus ke pass hai ya nhi ager sub pass karta hai toh wo baki ki 5 video bhi forward kar dega 
 
 
-5. `/bcast` ye brotcast ke liye hoga how ?
+5. ✅ `/bcast` ye brotcast ke liye hoga how ?
 
-    - pbot pe jaise hi /bcast karne ke bad bot msg ssend karega  basically wo puchega ki komse bot se bcast karna hai jaise hi mai bot choose kar leta hu toh wo text edit ho jyega or text Mai aus bot ke users or niche 3 buttons aajyege 
+    - pbot pe jaise hi /bcast karne ke bad bot msg ssend karega  basically wo puchega ki konse bot se bcast karna hai jaise hi mai bot choose kar leta hu toh wo text edit ho jyega or text Mai aus bot ke users or niche 3 buttons aajyege 
 
     - b1 name orignal bcast 
 
@@ -352,15 +352,15 @@ Note inki  ache se information es Mai nhi hai
 
      - For example es bot ke 10hazar users the maine 1000 type kar ke send kar diya toh 10k mai se rendom 1k users ko wo msg forward kar dega
 
-     - Ab es case mai maine bt click Kiya tha jaise hi mai choose kar leta hu toh msg edit ho jyega 
+    - Ab es case mai maine bt click Kiya tha jaise hi mai choose kar leta hu toh msg edit ho jyega 
 
-     - Edit ho jane ke bad muje jo msg bcast kar wama hai wo forward kar duga  msg send karte hi bot new msg send karega text= ager bcast cancel karna hai toh sttop button pe click karo ager mai 5sec ke under aus button pe click kar deta hu toh wo bcast nhi hoga warna ho jyega 
+    - Edit ho jane ke bad muje jo msg bcast kar wama hai wo forward kar duga  msg send karte hi bot new msg send karega text= ager bcast cancel karna hai toh sttop button pe click karo ager mai 5sec ke under aus button pe click kar deta hu toh wo bcast nhi hoga warna ho jyega 
 
     > NOTE ager msg forwarded hai toh forward hi hoga ager msg ke pass forward tag nhi hai toh wo without forward tag ke sath jayega 
 
 
 
-6. `/Msg` ye specific bot se specific user ko msg send karne ke liye hoga( how )
+6. ✅ `/Msg` ye specific bot se specific user ko msg send karne ke liye hoga( how )
 
 
 
@@ -368,7 +368,7 @@ Note inki  ache se information es Mai nhi hai
 
 
 
-7. `/List` es se history batayega ki kitne logo ne url shurtner key acess liya kiyne logo ne payment getaway se liya or kitne logo ke pass download permission hai  with date  es ke niche button hoga reset ka aus pe click karte hi ye history reset ho jayegi 
+7.  `/List` es se history batayega ki kitne logo ne url shurtner key acess liya kiyne logo ne payment getaway se liya or kitne logo ke pass download permission hai  with date  es ke niche button hoga reset ka aus pe click karte hi ye history reset ho jayegi 
 
 8. `/Reset` karte hi 2 buttons aajyege 
 
@@ -380,8 +380,7 @@ Note inki  ache se information es Mai nhi hai
 
 
 
-9. `/free` user ko menual permission Dene ke liye hoga ( how ?)
-
+9. ✅ `/free` user ko menual permission Dene ke liye hoga ( how ?)
 
 
    - `/free {userid}` ager user ke pass already koi plan hoga toh aus ka information text pe show kar dega warna text dura hoga /free userid karte hi 3-4buttoms honge 
@@ -402,7 +401,7 @@ Note inki  ache se information es Mai nhi hai
 
 
 
-10. `/Gen` basically `/batch` jesa hoga but Thora laga hoga es se multiple files ka link gen karene mai help karega (how ?) 
+10. ✅ `/Gen` basically `/batch` jesa hoga but Thora laga hoga es se multiple files ka link gen karene mai help karega (how ?) 
 
 
 
@@ -442,15 +441,15 @@ Note inki  ache se information es Mai nhi hai
 
       -  if auto approval pe click karta hu toh text edit ho jyega or 5buttons show karega 
 
-          -   welcome msg enable/disable  
-          -   leave msg enable/disable    
-          -   panding req enable/disable  
+          -  ✅ welcome msg enable/disable  
+          -  ✅leave msg enable/disable    
+          -   pending req enable/disable  
           -   verify assisting
           -   back 
 
 
 
-    - B. **Acesskey enable/disable**
+    - ✅ B. **Acesskey enable/disable**
 
         - If  disable hai toh bot ko use karne ke liye acesskey ki requirment nhi hogi sirf FSUB chahiye hoga 
 
@@ -465,7 +464,7 @@ Note inki  ache se information es Mai nhi hai
 
 
 
-    - **C. Logs Channel logs1/logs2/useboth/disable** 
+    - ✅ **C. Logs Channel logs1/logs2/useboth/disable** 
 
         - ager ye disable nhi hai kisi pe set hai toh jis pe send hai bot jis tarah se link gen karega aus link ko forward kar dega aus channel pe jis pe wo set hai 
 
@@ -481,7 +480,7 @@ Note inki  ache se information es Mai nhi hai
 
 
 
-    - E. Captain enable/disable 
+    - E. Caption enable/disable 
 
         - If ye enable hai toh Jis file ka link gen kar ra hai ager aus ke niche koi caption hai toh aus Caption ko copy kar ke link gen text pe paste kar ke send karega 
 
@@ -490,30 +489,30 @@ Note inki  ache se information es Mai nhi hai
 
 
 
-    - F. Link Type site/bot
+    - ~~F. Link Type site/bot~~
 
-        - If site  bot jo bhi link gen karega wo site ka katega site se kisi bot pe redirect hoga user 
+        - ~~If site  bot jo bhi link gen karega wo site ka katega site se kisi bot pe redirect hoga user~~ 
 
-        - if bot es case mai jitne bot add honge direct bot username se link gen honge rendom 
+        - ~~if bot es case mai jitne bot add honge direct bot username se link gen honge rendom~~ 
 
 
 
-    - G. `/Gen` type 10/1
+    - ✅ G. `/Gen` type 10/1
 
         - Ye `/gen` ke liye hai ager ye10 hai toh 10 file ka single link gen kar ke dega  ager 1 pe hai toh subka single link.
 
 
 
-    - H. Photo replacer 
+    - ~~H. Photo replacer~~ 
 
-        - Es ke liye baat kar Lena 
+        - ~~Es ke liye baat kar Lena~~
 
 
 
-    - I. Add es se multiple bots , multiple FSUB , tg account add karne ke liye hoga how ?
+    - ✅ I. Add es se multiple bots , multiple FSUB , tg account add karne ke liye hoga how ?
 
-        - add pe click karte hi text edit ho jyega or 4 button aajyege 
-        - b1 add bot 
+        -  add pe click karte hi text edit ho jyega or 4 button aajyege 
+        -  b1 add bot 
 
             - Es Mai multiple bots add remove kar sakta ho jo file provide karnege 
         - b2 add FSUB 
@@ -521,7 +520,7 @@ Note inki  ache se information es Mai nhi hai
 
             - Kis type se hoga like {buttonname} , {Channelid}
 ---
-### add tg account 
+### ✅ add tg account 
 
 >Mai chahta hu ki mai bor se aapna account login Karu or aus se hi Channel or bot create kar pau 
 >
