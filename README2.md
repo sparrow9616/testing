@@ -100,32 +100,34 @@ Note inki  ache se information es Mai nhi hai
     - ~~Note ~ same hosting wala vps ka ip use hoga if aisa hota hai toh jo mere pass vps hote hai wo life time stable nhi hote har month' new vps pe hosting hoti hai toh aus hesab se karna esko ki ager Ip change bhi ho toh problem na aaye~~ 
 
 
-## D. ⌛Payment Getaway 
+## ✅D. Payment Getaway 
+
+### updated to paytm qr code and auto payment check 
 
 
-### ⌛1.1 Payment getaway T&C
+### ~~1.1 Payment getaway T&C~~
 
-- user side koi bhi information na manage 
+- ~~user side koi bhi information na manage~~ 
 
-- user ko sirf payment karni padhe backend mai khud se identify kare payment aayi ya nhi
+- ~~user ko sirf payment karni padhe backend mai khud se identify kare payment aayi ya nhi~~
 
-- payment getaway without gst wala ho 
+- ~~payment getaway without gst wala ho~~ 
 
--  0 Cost Payment getaway chahiye if not posible than par tra mai kuch % de sakta hu 
+-  ~~0 Cost Payment getaway chahiye if not posible than par tra mai kuch % de sakta hu~~ 
 
-- waie toh mere pass  getway hai  wanra aapko payment getaway dundne mai aap help karoge 
+- ~~waie toh mere pass  getway hai  wanra aapko payment getaway dundne mai aap help karoge~~ 
 
-- muje domain buy nhi karna 
+- ~~muje domain buy nhi karna~~ 
 
 
 
-### ⌛ 1.2 Payment getaway UI 
+###  ~~1.2 Payment getaway UI~~ 
 
--  BUTTON PE CLICK kar ke mini app open hoga or aus mai payment modes show honge 
+-  ~~BUTTON PE CLICK kar ke mini app open hoga or aus mai payment modes show honge~~ 
 
-- qr ka background UI  bhi awasome ho 
+- ~~qr ka background UI  bhi awasome ho~~ 
 
--  if posible qr ke niche button ho aus pe click karte hi user ke device pe jo bhi payment mode available ho aus pe redirect ho jye 
+-  ~~if posible qr ke niche button ho aus pe click karte hi user ke device pe jo bhi payment mode available ho aus pe redirect ho jye~~ 
 
 
 
@@ -520,7 +522,7 @@ Note inki  ache se information es Mai nhi hai
 
             - Kis type se hoga like {buttonname} , {Channelid}
 ---
-### ⌛ add tg account 
+### ❌ add tg account 
 
 >Mai chahta hu ki mai bor se aapna account login Karu or aus se hi Channel or bot create kar pau 
 >
