@@ -133,7 +133,7 @@ Note inki  ache se information es Mai nhi hai
 
 ### E. BREIF ABOUT  FEATURES 
 
-#### ✅ ACESSKEY
+#### ⌛ ACESSKEY
 
 - IF enable hai toh ab se file store bot ka use karne k liye key kind of req hongi same jaise url shurtner hota hai na 24h ke liye waisa hi kuch hoga jis ke under url shurtner ke sath payment getaway se pay kar sakte ho 
 
@@ -282,18 +282,18 @@ Note inki  ache se information es Mai nhi hai
 
 
 
-#### ✅Batch channel
+#### ~~Batch channel~~
 
-- ek channel hoga jis ke under kuch bhi dalu aus ke niche button aajyega ek batch or Thumbnail name se   imshot multiple batch link generate kar wane ke liye essy method
+- ~~ek channel hoga jis ke under kuch bhi dalu aus ke niche button aajyega ek batch or Thumbnail name se   imshot multiple batch link generate kar wane ke liye essy method~~
 
-    - Example 
+    - ~~Example~~ 
 
-    - Msgid1 se msgid20 tak maine aus channel pe photos send kar di msgid20 means 20pic upload hue 
-    - Sub msgid ke niche khud ka batch or Thumbnail name se button hai 
-    - Ab yeh 20 pic ka muje batch chahiye with thumbnails 
-    - Toh jis ka msgid1 hai aus pe jo thumbnail hai aus pe click kar diya bot samj gya jo link gen hoga aus pic ke caption mai link dal ke dena hai 
-    - Phir maine msgid2  pe jo batch button hai aus pe click kar diya phir sidha maine msgid20 batch Button pe click kar diya 
-    - Ab huwa kya 19pic ka batch link generate huwa  jo link generate hoke aaya wo aus ke caption mai aaya 
+    - ~~Msgid1 se msgid20 tak maine aus channel pe photos send kar di msgid20 means 20pic upload hue~~ 
+    - ~~Sub msgid ke niche khud ka batch or Thumbnail name se button hai~~
+    - ~~Ab yeh 20 pic ka muje batch chahiye with thumbnails~~
+    - ~~Toh jis ka msgid1 hai aus pe jo thumbnail hai aus pe click kar diya bot samj gya jo link gen hoga aus pic ke caption mai link dal ke dena hai~~ 
+    - ~~Phir maine msgid2  pe jo batch button hai aus pe click kar diya phir sidha maine msgid20 batch Button pe click kar diya~~ 
+    - ~~Ab huwa kya 19pic ka batch link generate huwa  jo link generate hoke aaya wo aus ke caption mai aaya~~ 
 
 #### ✅ LIKE DISLIKE
 
@@ -445,8 +445,8 @@ Note inki  ache se information es Mai nhi hai
 
           -  ✅ welcome msg enable/disable  
           -  ✅leave msg enable/disable    
-          -   pending req enable/disable  
-          -   verify assisting
+          -   ~~pending req enable/disable~~  
+          -   ~~verify assisting~~
           -   back 
 
 
@@ -533,3 +533,10 @@ Note inki  ache se information es Mai nhi hai
 >Bot username pic bio name yeh sub set kar pau 
 >
 >Or I'd logout karne ka option jitna ho sake utna safe rahe  ban na ho. Account fresh bhi login kar wana hai toh sirf code beje toh sms ya telegram pe call wala skip kar sms bej de 
+
+12. `/search` for searching files in the database. This will be a simple search bar where you can search for files by name or episode or description
+
+13. ✅`/pending` /pending [channel id] [ optional users]
+
+14. `/set_post` - This will be a button that will allow users to set a post for their channel. 
+    - `done_post` - This will be a button that will allow users to set a post for their channel.
