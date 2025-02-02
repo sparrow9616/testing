@@ -534,9 +534,9 @@ Note inki  ache se information es Mai nhi hai
 >
 >Or I'd logout karne ka option jitna ho sake utna safe rahe  ban na ho. Account fresh bhi login kar wana hai toh sirf code beje toh sms ya telegram pe call wala skip kar sms bej de 
 
-12. `/search` for searching files in the database. This will be a simple search bar where you can search for files by name or episode or description
+12. ✅`/search` for searching files in the database. This will be a simple search bar where you can search for files by name or episode or description
 
 13. ✅`/pending` /pending [channel id] [ optional users]
 
-14. `/set_post` - This will be a button that will allow users to set a post for their channel. 
+14. ✅`/set_post` - This will be a button that will allow users to set a post for their channel. 
     - `done_post` - This will be a button that will allow users to set a post for their channel.
