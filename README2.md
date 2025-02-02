@@ -540,3 +540,20 @@ Note inki  ache se information es Mai nhi hai
 
 14. ✅`/set_post` - This will be a button that will allow users to set a post for their channel. 
     - `done_post` - This will be a button that will allow users to set a post for their channel.
+    - 
+15. REaction post send to REACTION channel at every 10 mins , also there will a button to create post when user send first time post
+   ShanayaFANBaseBot Has Been Updated With Fresh Content.!!!
+
+𝖳𝗈𝖽𝖺𝗒'𝗌 𝖬𝖾𝗇𝗎
+• 𝘐𝘯𝘥𝘪𝘢𝘯  𝘊𝘰𝘯𝘵𝘦𝘯𝘵▾
+40 𝘓𝘪𝘯𝘬𝘴 𝘗𝘰𝘴𝘵𝘦𝘥
+• 𝘎𝘭𝘰𝘣𝘢 𝘭𝘊𝘰𝘯𝘵𝘦𝘯𝘵▾
+40 𝘓𝘪𝘯𝘬𝘴 𝘗𝘰𝘴𝘵𝘦𝘥
+• 𝘋𝘢𝘳𝘬𝘊𝘰𝘯𝘵𝘦𝘯𝘵▾
+40 𝘓𝘪𝘯𝘬𝘴 𝘗𝘰𝘴𝘵𝘦𝘥
+• 𝘖𝘵𝘩𝘦𝘳 𝘊𝘰𝘯𝘵𝘦𝘯𝘵▾
+40 𝘓𝘪𝘯𝘬𝘴 𝘗𝘰𝘴𝘵𝘦𝘥
+
+𝖳𝗈𝖽𝖺𝗒'𝗌 𝖢𝗈𝗇𝗍𝖾𝗇𝗍 𝖥𝖾𝖾𝖽𝖡𝖺𝖼𝗄𝗌
+👍🏻50•  ❤️ 50 •   😂 50•   🤤50•
+👎🏻40•   💔40•   😭40 •   🤬40•
