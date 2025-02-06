@@ -133,7 +133,7 @@ Note inki  ache se information es Mai nhi hai
 
 ### E. BREIF ABOUT  FEATURES 
 
-#### ⌛ ACESSKEY
+#### ✅ ACESSKEY
 
 - IF enable hai toh ab se file store bot ka use karne k liye key kind of req hongi same jaise url shurtner hota hai na 24h ke liye waisa hi kuch hoga jis ke under url shurtner ke sath payment getaway se pay kar sakte ho 
 
@@ -185,9 +185,9 @@ Note inki  ache se information es Mai nhi hai
 
 ---
 
-####  🔎 VERIFY 
+#### ~~VERIFY~~
 
-- IF enabled hai toh jab user req send kaega toh user ke dm mai msg jayega verify button ke sath jab tak user aus button pe click nhi karega req approve nhi hogi jaise hi user click karta hai same bot pe aus user ke side se /start msg send hoga or req approve ho jyegi 
+- ~~IF enabled hai toh jab user req send kaega toh user ke dm mai msg jayega verify button ke sath jab tak user aus button pe click nhi karega req approve nhi hogi jaise hi user click karta hai same bot pe aus user ke side se /start msg send hoga or req approve ho jyegi~~ 
 
 ---
 
@@ -217,7 +217,7 @@ Note inki  ache se information es Mai nhi hai
 
 ---
 
-#### 🔎 DURETONS
+#### ✅ DURATION
 
 - Jis file ka wo link gen kar raha hai aus ka duration hai toh kitna duration hai wo link gen text Mai bhi show kare 
 
@@ -231,7 +231,7 @@ Note inki  ache se information es Mai nhi hai
 ---
 
 
-#### 🔎 THUMBNAIL/ PIC1/PIC2
+#### ✅ THUMBNAIL/ PIC1/PIC2
 
 - Es ke liye baat kar Lena better rahega 
 ---
@@ -243,7 +243,7 @@ Note inki  ache se information es Mai nhi hai
 
 ---
 
-#### USELESS 
+#### ✅USELESS 
 
 - Jab user aisa  msg send kare jo cmand mai nhi like hello hi toh bot user ko msg send karega 
 
@@ -253,7 +253,7 @@ Note inki  ache se information es Mai nhi hai
 
 - Same cheez 3 times hogi 4th time voice msg send karega or wo count reset ho jyega same 3 time msg or 4rh mai msg 
 
-#### USELESS IMPORTANT BUTTON 
+#### ✅USELESS IMPORTANT BUTTON 
 
 - AUS BUTTON OE CLICK KAETE HI text aayega aus text ke bad user jo bhi bejta hai jaise bhi bejta hai maan lo hello bej diya bot msg bejega text ke sath 2 button send or cancel 
 
@@ -266,6 +266,7 @@ Note inki  ache se information es Mai nhi hai
 
         - REJECT karte hi sudo user ko bot msg send karega button ke sath aus button pe sudo user ne 5min under click Kiya toh aus hi user ko aapni baat likh ke bej sakta ager click nhi karta toh kuch nhi hoga 
 
+  reject the process when user send /start
 ---
 
 ### ✅F. FEATURES
@@ -301,7 +302,7 @@ Note inki  ache se information es Mai nhi hai
 
 
 
-#### Userless important button 
+#### ✅Userless important button 
 
 - es ke liye baat kar Lena 
 
@@ -323,7 +324,7 @@ Note inki  ache se information es Mai nhi hai
     
 3. ✅ `/Info` es se vps ke related information share karega ram, core , version, speed , etc etc 
 
-4. 🔎 `/Promo` (how it's work )
+4. ✅ `/Promo` (how it's work )
 
    - `/Promo` karte hi bot ek text send karega with button  aus text ke bad for example maine 5 pics send kar di pic send kar e ke bad maine aus button pe click kar diya bot ne ek text send Kiya aus text ke bad maine 5 videos send karni thi wo kar di phir maine /makeit kar diya  makeit ke bad bot link gen kar dega 
 
@@ -372,7 +373,7 @@ Note inki  ache se information es Mai nhi hai
 
 7. ✅ `/List` es se history batayega ki kitne logo ne url shurtner key acess liya kiyne logo ne payment getaway se liya or kitne logo ke pass download permission hai  with date  es ke niche button hoga reset ka aus pe click karte hi ye history reset ho jayegi 
 
-8. 🔎 `/Reset` karte hi 2 buttons aajyege 
+8. ✅ `/Reset` karte hi 2 buttons aajyege 
 
     - B1 count reset ~ es se jo counting chal rahi hai wo reset ho jyegi 
 
@@ -385,7 +386,7 @@ Note inki  ache se information es Mai nhi hai
 9. ✅ `/free` user ko menual permission Dene ke liye hoga ( how ?)
 
 
-   - `/free {userid}` ager user ke pass already koi plan hoga toh aus ka information text pe show kar dega warna text dura hoga /free userid karte hi 3-4buttoms honge 
+   - ✅`/free {userid}` ager user ke pass already koi plan hoga toh aus ka information text pe show kar dega warna text dura hoga /free userid karte hi 3-4buttoms honge 
 
 
 
@@ -462,7 +463,7 @@ Note inki  ache se information es Mai nhi hai
             - url shurtner enable/disable 
 
             - back 
-        > NOTE dono mai se koi disable hai toh jab bot Acesskey generate msg send karega aus pe aus ka buttons show nhi karega 
+        > ❌NOTE dono mai se koi disable hai toh jab bot Acesskey generate msg send karega aus pe aus ka buttons show nhi karega 
 
 
 
@@ -476,13 +477,13 @@ Note inki  ache se information es Mai nhi hai
 
 
 
-    - D. Want image pic1/pic2/thumbnail/disable 
+    - D.✅ Want image pic1/pic2/thumbnail/disable 
 
         - Pic1 pic2 ka puch lena ot Thumbnail ka bata rakha hai 
 
 
 
-    - E. Caption enable/disable 
+    - E.✅ Caption enable/disable 
 
         - If ye enable hai toh Jis file ka link gen kar ra hai ager aus ke niche koi caption hai toh aus Caption ko copy kar ke link gen text pe paste kar ke send karega 
 
@@ -540,20 +541,5 @@ Note inki  ache se information es Mai nhi hai
 
 14. ✅`/set_post` - This will be a button that will allow users to set a post for their channel. 
     - `done_post` - This will be a button that will allow users to set a post for their channel.
-    - 
-15. REaction post send to REACTION channel at every 10 mins , also there will a button to create post when user send first time post
-   ShanayaFANBaseBot Has Been Updated With Fresh Content.!!!
 
-𝖳𝗈𝖽𝖺𝗒'𝗌 𝖬𝖾𝗇𝗎
-• 𝘐𝘯𝘥𝘪𝘢𝘯  𝘊𝘰𝘯𝘵𝘦𝘯𝘵▾
-40 𝘓𝘪𝘯𝘬𝘴 𝘗𝘰𝘴𝘵𝘦𝘥
-• 𝘎𝘭𝘰𝘣𝘢 𝘭𝘊𝘰𝘯𝘵𝘦𝘯𝘵▾
-40 𝘓𝘪𝘯𝘬𝘴 𝘗𝘰𝘴𝘵𝘦𝘥
-• 𝘋𝘢𝘳𝘬𝘊𝘰𝘯𝘵𝘦𝘯𝘵▾
-40 𝘓𝘪𝘯𝘬𝘴 𝘗𝘰𝘴𝘵𝘦𝘥
-• 𝘖𝘵𝘩𝘦𝘳 𝘊𝘰𝘯𝘵𝘦𝘯𝘵▾
-40 𝘓𝘪𝘯𝘬𝘴 𝘗𝘰𝘴𝘵𝘦𝘥
-
-𝖳𝗈𝖽𝖺𝗒'𝗌 𝖢𝗈𝗇𝗍𝖾𝗇𝗍 𝖥𝖾𝖾𝖽𝖡𝖺𝖼𝗄𝗌
-👍🏻50•  ❤️ 50 •   😂 50•   🤤50•
-👎🏻40•   💔40•   😭40 •   🤬40•
+15. ✅add a backup channel to keep data when lets database channel 1 is deleted then userbot will send files in backup channel to keep data without any errros
