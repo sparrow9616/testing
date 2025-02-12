@@ -543,3 +543,6 @@ Note inki  ache se information es Mai nhi hai
     - `done_post` - This will be a button that will allow users to set a post for their channel.
 
 15. ✅add a backup channel to keep data when lets database channel 1 is deleted then userbot will send files in backup channel to keep data without any errros
+
+
+> ![image](https://envs.sh/VVF.jpg)
