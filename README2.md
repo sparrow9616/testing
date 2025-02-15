@@ -544,5 +544,4 @@ Note inki  ache se information es Mai nhi hai
 
 15. ✅add a backup channel to keep data when lets database channel 1 is deleted then userbot will send files in backup channel to keep data without any errros
 
-
-> [![image](https://envs.sh/VVF.jpg)
+16. mix button on category
